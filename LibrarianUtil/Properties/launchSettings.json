@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LibrarianUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "GetDesign librarianserver.com -u USERNAME -p PASSWORD -d DATABASE -x C:\\tmp -s 1 -f PCF"
+    }
+  }
+}
